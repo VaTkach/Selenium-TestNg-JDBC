@@ -201,7 +201,7 @@ fi
 
 set -- \
         -classpath "$CLASSPATH" \
-        FirstTest \
+        MyFirstProgram \
         "$@"
 
 # Use "xargs" to parse quoted args.
